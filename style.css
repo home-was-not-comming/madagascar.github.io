@@ -19,7 +19,11 @@ p{
 	}
 li{
 	color:white;
-	padding: 0px 500px 0px 50px
+	padding: 0px 500px 0px 50px;
+	}
+ul{
+	color:white;
+	padding: 0px 500px 0px 50px;
 	}
 body{
 	background-color: black;
