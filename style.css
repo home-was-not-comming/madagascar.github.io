@@ -1,0 +1,41 @@
+h1{
+	color:white;
+	}
+h2{
+	color:red;
+	margin:0px 0px 0px 100px
+	}
+h3{
+	color:red;
+	margin:0px 0px 0px 100px
+	}
+h4{
+	color:red;
+	margin:0px 0px 0px 100px
+	}
+p{
+	color:white;
+	padding: 0px 1200px 0px 50px
+	}
+body{
+	background-color: black;
+	background-image: url("night.jpg");
+	}
+img{	
+	margin:30px 30px 30px 30px;
+	}
+a:visited{
+	color:green;
+	background-color:black;
+	margin:30px 30px 30px 30px
+	}
+a:link{
+	color:red;
+	background-color:black;
+	margin:30px 30px 50px 30px
+	}
+a:hover{
+	color:blue;
+	background-color:white;
+	margin:30px 30px 30px 30px
+	}
